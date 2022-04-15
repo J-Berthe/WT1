@@ -2,6 +2,7 @@
 package com.java;
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        //Dev a changer ici
+        System.out.println("Hello, i'm a Dev!");
     }
 }
